@@ -1,0 +1,11 @@
+# Ignore all IntelliJ IDEA files and folders
+.idea/
+*.iml
+*.iws
+
+# Ignore workspace and configuration-related files
+.idea/**
+*.ipr
+*.ijwb
+*.ijwb.zip
+**/.idea/**
